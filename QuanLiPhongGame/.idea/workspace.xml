@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a2cbf9b-1b66-45e6-8a00-435a4807eeaa" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FeYUHQox0NFZPihzTOh8U0OJex" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LeThiThuyTrang/Desktop/CaseStudyModule2/QuanLiPhongGame&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.MainClient">
+    <configuration name="Client1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sever.ClientDemo" />
+      <module name="QuanLiPhongGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sever.ClientDemo" />
+      <module name="QuanLiPhongGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sever.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientDemo2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sever.ClientDemo1" />
+      <module name="QuanLiPhongGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientDemo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sever.ClientDemo" />
+      <module name="QuanLiPhongGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTaiXiu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="services.GameTaiXiu" />
+      <module name="QuanLiPhongGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HostDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sever.HostDemo" />
+      <module name="QuanLiPhongGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sever.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="QuanLiPhongGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClient" />
+      <module name="QuanLiPhongGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="QuanLiPhongGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client1" />
+      <item itemvalue="Application.ClientDemo2" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.GameTaiXiu" />
+      <item itemvalue="Application.MainClient" />
+      <item itemvalue="Application.ClientDemo" />
+      <item itemvalue="Application.HostDemo" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClient" />
+        <item itemvalue="Application.GameTaiXiu" />
+        <item itemvalue="Application.HostDemo" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ClientDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a2cbf9b-1b66-45e6-8a00-435a4807eeaa" name="Changes" comment="" />
+      <created>1664854032501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664854032501</updated>
+      <workItem from="1664854033920" duration="4759000" />
+      <workItem from="1664932069477" duration="15351000" />
+      <workItem from="1665021137772" duration="10944000" />
+      <workItem from="1665045336122" duration="5578000" />
+      <workItem from="1665105829359" duration="1037000" />
+      <workItem from="1665116334321" duration="9079000" />
+      <workItem from="1665371983865" duration="7952000" />
+      <workItem from="1665452227372" duration="12806000" />
+      <workItem from="1665478738736" duration="3937000" />
+      <workItem from="1665536953958" duration="13486000" />
+      <workItem from="1665556562485" duration="8787000" />
+      <workItem from="1665576079410" duration="7589000" />
+      <workItem from="1665623339700" duration="5067000" />
+      <workItem from="1665630621001" duration="11099000" />
+      <workItem from="1665922420772" duration="27832000" />
+      <workItem from="1666056263729" duration="7701000" />
+      <workItem from="1666077044729" duration="10014000" />
+      <workItem from="1666092984093" duration="6346000" />
+      <workItem from="1666141437418" duration="237000" />
+      <workItem from="1666141886683" duration="140000" />
+      <workItem from="1666142931908" duration="530000" />
+      <workItem from="1666144226934" duration="1224000" />
+      <workItem from="1666159436567" duration="10713000" />
+      <workItem from="1666175454338" duration="136000" />
+      <workItem from="1666179314281" duration="13622000" />
+      <workItem from="1666227993535" duration="646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.NotSerializableException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/QuanLiPhongGame$ClientDemo.ic" NAME="ClientDemo Coverage Results" MODIFIED="1665463255739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sever.*</FILTER>
+    </SUITE>
+  </component>
+</project>
